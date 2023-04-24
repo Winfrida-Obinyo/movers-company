@@ -105,6 +105,16 @@
 .movingmen{
     flex: left;
 }
+.about{
+  background-color: bisque;
+}
+.home{
+  display: block;
+  margin: auto;
+  max-width: 100%;
+  text-align: center;
+
+}
     
   
 
